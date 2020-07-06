@@ -1,0 +1,2 @@
+# scratch_home_education
+scratch基本内容学习，培养计算机思维方式，着重关注问题分析和拆解，通过拓展题目来拓展思路
